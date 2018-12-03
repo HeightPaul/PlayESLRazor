@@ -1,2 +1,3 @@
 # ESLPlayRazor
-ESL Play Management of Competing teams and Tournaments, done with .NET Core 2.1 RazorPages
+Basic competing teams & tournaments management modeling of play.eslgaming.com. Made with .NET Core 2.1 RazorPages
+
