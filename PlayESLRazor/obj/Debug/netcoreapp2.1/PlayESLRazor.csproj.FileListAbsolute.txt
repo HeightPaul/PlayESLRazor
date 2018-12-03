@@ -1,0 +1,226 @@
+D:\Archive Projects\Programming\University\2 Course\2 Course 1 Trim\Event-Driven Programming\CourseRepos\PlayESLRazor\PlayESLRazor\bin\Debug\netcoreapp2.1\PlayESLRazor.deps.json
+D:\Archive Projects\Programming\University\2 Course\2 Course 1 Trim\Event-Driven Programming\CourseRepos\PlayESLRazor\PlayESLRazor\bin\Debug\netcoreapp2.1\PlayESLRazor.runtimeconfig.json
+D:\Archive Projects\Programming\University\2 Course\2 Course 1 Trim\Event-Driven Programming\CourseRepos\PlayESLRazor\PlayESLRazor\bin\Debug\netcoreapp2.1\PlayESLRazor.runtimeconfig.dev.json
+D:\Archive Projects\Programming\University\2 Course\2 Course 1 Trim\Event-Driven Programming\CourseRepos\PlayESLRazor\PlayESLRazor\bin\Debug\netcoreapp2.1\PlayESLRazor.dll
+D:\Archive Projects\Programming\University\2 Course\2 Course 1 Trim\Event-Driven Programming\CourseRepos\PlayESLRazor\PlayESLRazor\bin\Debug\netcoreapp2.1\PlayESLRazor.pdb
+D:\Archive Projects\Programming\University\2 Course\2 Course 1 Trim\Event-Driven Programming\CourseRepos\PlayESLRazor\PlayESLRazor\bin\Debug\netcoreapp2.1\PlayESLRazor.Views.dll
+D:\Archive Projects\Programming\University\2 Course\2 Course 1 Trim\Event-Driven Programming\CourseRepos\PlayESLRazor\PlayESLRazor\bin\Debug\netcoreapp2.1\PlayESLRazor.Views.pdb
+D:\Archive Projects\Programming\University\2 Course\2 Course 1 Trim\Event-Driven Programming\CourseRepos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\PlayESLRazor.csprojAssemblyReference.cache
+D:\Archive Projects\Programming\University\2 Course\2 Course 1 Trim\Event-Driven Programming\CourseRepos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\PlayESLRazor.csproj.CoreCompileInputs.cache
+D:\Archive Projects\Programming\University\2 Course\2 Course 1 Trim\Event-Driven Programming\CourseRepos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\PlayESLRazor.RazorAssemblyInfo.cache
+D:\Archive Projects\Programming\University\2 Course\2 Course 1 Trim\Event-Driven Programming\CourseRepos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\PlayESLRazor.RazorAssemblyInfo.cs
+D:\Archive Projects\Programming\University\2 Course\2 Course 1 Trim\Event-Driven Programming\CourseRepos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+D:\Archive Projects\Programming\University\2 Course\2 Course 1 Trim\Event-Driven Programming\CourseRepos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\PlayESLRazor.AssemblyInfoInputs.cache
+D:\Archive Projects\Programming\University\2 Course\2 Course 1 Trim\Event-Driven Programming\CourseRepos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\PlayESLRazor.AssemblyInfo.cs
+D:\Archive Projects\Programming\University\2 Course\2 Course 1 Trim\Event-Driven Programming\CourseRepos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\PlayESLRazor.TagHelpers.input.cache
+D:\Archive Projects\Programming\University\2 Course\2 Course 1 Trim\Event-Driven Programming\CourseRepos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\PlayESLRazor.TagHelpers.output.cache
+D:\Archive Projects\Programming\University\2 Course\2 Course 1 Trim\Event-Driven Programming\CourseRepos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\PlayESLRazor.RazorCoreGenerate.cache
+D:\Archive Projects\Programming\University\2 Course\2 Course 1 Trim\Event-Driven Programming\CourseRepos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+D:\Archive Projects\Programming\University\2 Course\2 Course 1 Trim\Event-Driven Programming\CourseRepos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Pages\About.g.cshtml.cs
+D:\Archive Projects\Programming\University\2 Course\2 Course 1 Trim\Event-Driven Programming\CourseRepos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Pages\Contact.g.cshtml.cs
+D:\Archive Projects\Programming\University\2 Course\2 Course 1 Trim\Event-Driven Programming\CourseRepos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Pages\Error.g.cshtml.cs
+D:\Archive Projects\Programming\University\2 Course\2 Course 1 Trim\Event-Driven Programming\CourseRepos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Pages\Index.g.cshtml.cs
+D:\Archive Projects\Programming\University\2 Course\2 Course 1 Trim\Event-Driven Programming\CourseRepos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Pages\Privacy.g.cshtml.cs
+D:\Archive Projects\Programming\University\2 Course\2 Course 1 Trim\Event-Driven Programming\CourseRepos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\Archive Projects\Programming\University\2 Course\2 Course 1 Trim\Event-Driven Programming\CourseRepos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.g.cshtml.cs
+D:\Archive Projects\Programming\University\2 Course\2 Course 1 Trim\Event-Driven Programming\CourseRepos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_LoginPartial.g.cshtml.cs
+D:\Archive Projects\Programming\University\2 Course\2 Course 1 Trim\Event-Driven Programming\CourseRepos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\Archive Projects\Programming\University\2 Course\2 Course 1 Trim\Event-Driven Programming\CourseRepos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.g.cshtml.cs
+D:\Archive Projects\Programming\University\2 Course\2 Course 1 Trim\Event-Driven Programming\CourseRepos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.g.cshtml.cs
+D:\Archive Projects\Programming\University\2 Course\2 Course 1 Trim\Event-Driven Programming\CourseRepos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\PlayESLRazor.RazorTargetAssemblyInfo.cache
+D:\Archive Projects\Programming\University\2 Course\2 Course 1 Trim\Event-Driven Programming\CourseRepos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\PlayESLRazor.RazorTargetAssemblyInfo.cs
+D:\Archive Projects\Programming\University\2 Course\2 Course 1 Trim\Event-Driven Programming\CourseRepos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\PlayESLRazor.Views.pdb
+D:\Archive Projects\Programming\University\2 Course\2 Course 1 Trim\Event-Driven Programming\CourseRepos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\PlayESLRazor.dll
+D:\Archive Projects\Programming\University\2 Course\2 Course 1 Trim\Event-Driven Programming\CourseRepos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\PlayESLRazor.pdb
+D:\Archive Projects\Programming\University\2 Course\2 Course 1 Trim\Event-Driven Programming\CourseRepos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\PlayESLRazor.csproj.CopyComplete
+D:\Archive Projects\Programming\University\2 Course\2 Course 1 Trim\EDP\CourseRepos\PlayESLRazor\PlayESLRazor\bin\Debug\netcoreapp2.1\PlayESLRazor.deps.json
+D:\Archive Projects\Programming\University\2 Course\2 Course 1 Trim\EDP\CourseRepos\PlayESLRazor\PlayESLRazor\bin\Debug\netcoreapp2.1\PlayESLRazor.runtimeconfig.json
+D:\Archive Projects\Programming\University\2 Course\2 Course 1 Trim\EDP\CourseRepos\PlayESLRazor\PlayESLRazor\bin\Debug\netcoreapp2.1\PlayESLRazor.runtimeconfig.dev.json
+D:\Archive Projects\Programming\University\2 Course\2 Course 1 Trim\EDP\CourseRepos\PlayESLRazor\PlayESLRazor\bin\Debug\netcoreapp2.1\PlayESLRazor.dll
+D:\Archive Projects\Programming\University\2 Course\2 Course 1 Trim\EDP\CourseRepos\PlayESLRazor\PlayESLRazor\bin\Debug\netcoreapp2.1\PlayESLRazor.pdb
+D:\Archive Projects\Programming\University\2 Course\2 Course 1 Trim\EDP\CourseRepos\PlayESLRazor\PlayESLRazor\bin\Debug\netcoreapp2.1\PlayESLRazor.Views.dll
+D:\Archive Projects\Programming\University\2 Course\2 Course 1 Trim\EDP\CourseRepos\PlayESLRazor\PlayESLRazor\bin\Debug\netcoreapp2.1\PlayESLRazor.Views.pdb
+D:\Archive Projects\Programming\University\2 Course\2 Course 1 Trim\EDP\CourseRepos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\PlayESLRazor.csprojAssemblyReference.cache
+D:\Archive Projects\Programming\University\2 Course\2 Course 1 Trim\EDP\CourseRepos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\PlayESLRazor.csproj.CoreCompileInputs.cache
+D:\Archive Projects\Programming\University\2 Course\2 Course 1 Trim\EDP\CourseRepos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\PlayESLRazor.RazorAssemblyInfo.cache
+D:\Archive Projects\Programming\University\2 Course\2 Course 1 Trim\EDP\CourseRepos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\PlayESLRazor.RazorAssemblyInfo.cs
+D:\Archive Projects\Programming\University\2 Course\2 Course 1 Trim\EDP\CourseRepos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+D:\Archive Projects\Programming\University\2 Course\2 Course 1 Trim\EDP\CourseRepos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\PlayESLRazor.AssemblyInfoInputs.cache
+D:\Archive Projects\Programming\University\2 Course\2 Course 1 Trim\EDP\CourseRepos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\PlayESLRazor.AssemblyInfo.cs
+D:\Archive Projects\Programming\University\2 Course\2 Course 1 Trim\EDP\CourseRepos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\PlayESLRazor.TagHelpers.input.cache
+D:\Archive Projects\Programming\University\2 Course\2 Course 1 Trim\EDP\CourseRepos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\PlayESLRazor.TagHelpers.output.cache
+D:\Archive Projects\Programming\University\2 Course\2 Course 1 Trim\EDP\CourseRepos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\PlayESLRazor.RazorCoreGenerate.cache
+D:\Archive Projects\Programming\University\2 Course\2 Course 1 Trim\EDP\CourseRepos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+D:\Archive Projects\Programming\University\2 Course\2 Course 1 Trim\EDP\CourseRepos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Pages\About.g.cshtml.cs
+D:\Archive Projects\Programming\University\2 Course\2 Course 1 Trim\EDP\CourseRepos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Pages\Contact.g.cshtml.cs
+D:\Archive Projects\Programming\University\2 Course\2 Course 1 Trim\EDP\CourseRepos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Pages\Error.g.cshtml.cs
+D:\Archive Projects\Programming\University\2 Course\2 Course 1 Trim\EDP\CourseRepos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Pages\Index.g.cshtml.cs
+D:\Archive Projects\Programming\University\2 Course\2 Course 1 Trim\EDP\CourseRepos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Pages\Privacy.g.cshtml.cs
+D:\Archive Projects\Programming\University\2 Course\2 Course 1 Trim\EDP\CourseRepos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\Archive Projects\Programming\University\2 Course\2 Course 1 Trim\EDP\CourseRepos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.g.cshtml.cs
+D:\Archive Projects\Programming\University\2 Course\2 Course 1 Trim\EDP\CourseRepos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_LoginPartial.g.cshtml.cs
+D:\Archive Projects\Programming\University\2 Course\2 Course 1 Trim\EDP\CourseRepos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\Archive Projects\Programming\University\2 Course\2 Course 1 Trim\EDP\CourseRepos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.g.cshtml.cs
+D:\Archive Projects\Programming\University\2 Course\2 Course 1 Trim\EDP\CourseRepos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.g.cshtml.cs
+D:\Archive Projects\Programming\University\2 Course\2 Course 1 Trim\EDP\CourseRepos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\PlayESLRazor.RazorTargetAssemblyInfo.cache
+D:\Archive Projects\Programming\University\2 Course\2 Course 1 Trim\EDP\CourseRepos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\PlayESLRazor.RazorTargetAssemblyInfo.cs
+D:\Archive Projects\Programming\University\2 Course\2 Course 1 Trim\EDP\CourseRepos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\PlayESLRazor.Views.pdb
+D:\Archive Projects\Programming\University\2 Course\2 Course 1 Trim\EDP\CourseRepos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\PlayESLRazor.dll
+D:\Archive Projects\Programming\University\2 Course\2 Course 1 Trim\EDP\CourseRepos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\PlayESLRazor.pdb
+D:\Archive Projects\Programming\University\2 Course\2 Course 1 Trim\EDP\CourseRepos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\PlayESLRazor.csproj.CopyComplete
+D:\Repos\EDP\Course Projects\PlayESLRazor\PlayESLRazor\bin\Debug\netcoreapp2.1\PlayESLRazor.deps.json
+D:\Repos\EDP\Course Projects\PlayESLRazor\PlayESLRazor\bin\Debug\netcoreapp2.1\PlayESLRazor.runtimeconfig.json
+D:\Repos\EDP\Course Projects\PlayESLRazor\PlayESLRazor\bin\Debug\netcoreapp2.1\PlayESLRazor.runtimeconfig.dev.json
+D:\Repos\EDP\Course Projects\PlayESLRazor\PlayESLRazor\bin\Debug\netcoreapp2.1\PlayESLRazor.dll
+D:\Repos\EDP\Course Projects\PlayESLRazor\PlayESLRazor\bin\Debug\netcoreapp2.1\PlayESLRazor.pdb
+D:\Repos\EDP\Course Projects\PlayESLRazor\PlayESLRazor\bin\Debug\netcoreapp2.1\PlayESLRazor.Views.dll
+D:\Repos\EDP\Course Projects\PlayESLRazor\PlayESLRazor\bin\Debug\netcoreapp2.1\PlayESLRazor.Views.pdb
+D:\Repos\EDP\Course Projects\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\PlayESLRazor.csprojAssemblyReference.cache
+D:\Repos\EDP\Course Projects\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\PlayESLRazor.csproj.CoreCompileInputs.cache
+D:\Repos\EDP\Course Projects\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\PlayESLRazor.RazorAssemblyInfo.cache
+D:\Repos\EDP\Course Projects\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\PlayESLRazor.RazorAssemblyInfo.cs
+D:\Repos\EDP\Course Projects\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\PlayESLRazor.AssemblyInfoInputs.cache
+D:\Repos\EDP\Course Projects\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\PlayESLRazor.AssemblyInfo.cs
+D:\Repos\EDP\Course Projects\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\PlayESLRazor.TagHelpers.input.cache
+D:\Repos\EDP\Course Projects\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\PlayESLRazor.TagHelpers.output.cache
+D:\Repos\EDP\Course Projects\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\PlayESLRazor.RazorCoreGenerate.cache
+D:\Repos\EDP\Course Projects\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+D:\Repos\EDP\Course Projects\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Pages\About.g.cshtml.cs
+D:\Repos\EDP\Course Projects\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Pages\Contact.g.cshtml.cs
+D:\Repos\EDP\Course Projects\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Pages\Error.g.cshtml.cs
+D:\Repos\EDP\Course Projects\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Pages\Index.g.cshtml.cs
+D:\Repos\EDP\Course Projects\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Pages\Privacy.g.cshtml.cs
+D:\Repos\EDP\Course Projects\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\Repos\EDP\Course Projects\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.g.cshtml.cs
+D:\Repos\EDP\Course Projects\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_LoginPartial.g.cshtml.cs
+D:\Repos\EDP\Course Projects\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\Repos\EDP\Course Projects\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.g.cshtml.cs
+D:\Repos\EDP\Course Projects\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.g.cshtml.cs
+D:\Repos\EDP\Course Projects\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\PlayESLRazor.RazorTargetAssemblyInfo.cache
+D:\Repos\EDP\Course Projects\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\PlayESLRazor.RazorTargetAssemblyInfo.cs
+D:\Repos\EDP\Course Projects\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\PlayESLRazor.Views.pdb
+D:\Repos\EDP\Course Projects\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\PlayESLRazor.dll
+D:\Repos\EDP\Course Projects\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\PlayESLRazor.pdb
+D:\Repos\EDP\Course Projects\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\PlayESLRazor.csproj.CopyComplete
+D:\Repos\EDP\Course Projects\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\AccessDenied.g.cshtml.cs
+D:\Repos\EDP\Course Projects\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ConfirmEmail.g.cshtml.cs
+D:\Repos\EDP\Course Projects\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ExternalLogin.g.cshtml.cs
+D:\Repos\EDP\Course Projects\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.g.cshtml.cs
+D:\Repos\EDP\Course Projects\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.g.cshtml.cs
+D:\Repos\EDP\Course Projects\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Lockout.g.cshtml.cs
+D:\Repos\EDP\Course Projects\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Login.g.cshtml.cs
+D:\Repos\EDP\Course Projects\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\LoginWith2fa.g.cshtml.cs
+D:\Repos\EDP\Course Projects\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.g.cshtml.cs
+D:\Repos\EDP\Course Projects\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Logout.g.cshtml.cs
+D:\Repos\EDP\Course Projects\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.g.cshtml.cs
+D:\Repos\EDP\Course Projects\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.g.cshtml.cs
+D:\Repos\EDP\Course Projects\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.g.cshtml.cs
+D:\Repos\EDP\Course Projects\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.g.cshtml.cs
+D:\Repos\EDP\Course Projects\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.g.cshtml.cs
+D:\Repos\EDP\Course Projects\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.g.cshtml.cs
+D:\Repos\EDP\Course Projects\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.g.cshtml.cs
+D:\Repos\EDP\Course Projects\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\Index.g.cshtml.cs
+D:\Repos\EDP\Course Projects\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.g.cshtml.cs
+D:\Repos\EDP\Course Projects\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.g.cshtml.cs
+D:\Repos\EDP\Course Projects\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.g.cshtml.cs
+D:\Repos\EDP\Course Projects\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.g.cshtml.cs
+D:\Repos\EDP\Course Projects\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_Layout.g.cshtml.cs
+D:\Repos\EDP\Course Projects\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.g.cshtml.cs
+D:\Repos\EDP\Course Projects\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.g.cshtml.cs
+D:\Repos\EDP\Course Projects\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.g.cshtml.cs
+D:\Repos\EDP\Course Projects\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Register.g.cshtml.cs
+D:\Repos\EDP\Course Projects\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ResetPassword.g.cshtml.cs
+D:\Repos\EDP\Course Projects\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.g.cshtml.cs
+D:\Repos\EDP\Course Projects\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\_ViewImports.g.cshtml.cs
+D:\Repos\EDP\Course Projects\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Error.g.cshtml.cs
+D:\Repos\EDP\Course Projects\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.g.cshtml.cs
+D:\Repos\EDP\Course Projects\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewImports.g.cshtml.cs
+D:\Repos\EDP\Course Projects\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Pages\CompTeams\Create.g.cshtml.cs
+D:\Repos\EDP\Course Projects\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Pages\CompTeams\Delete.g.cshtml.cs
+D:\Repos\EDP\Course Projects\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Pages\CompTeams\Details.g.cshtml.cs
+D:\Repos\EDP\Course Projects\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Pages\CompTeams\Edit.g.cshtml.cs
+D:\Repos\EDP\Course Projects\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Pages\CompTeams\Index.g.cshtml.cs
+D:\Repos\EDP\Course Projects\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+D:\Repos\EDP\Course Projects\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Pages\Tournaments\Create.g.cshtml.cs
+D:\Repos\EDP\Course Projects\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Pages\Tournaments\Delete.g.cshtml.cs
+D:\Repos\EDP\Course Projects\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Pages\Tournaments\Details.g.cshtml.cs
+D:\Repos\EDP\Course Projects\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Pages\Tournaments\Edit.g.cshtml.cs
+D:\Repos\EDP\Course Projects\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Pages\Tournaments\Index.g.cshtml.cs
+D:\Repos\PlayESLRazor\PlayESLRazor\bin\Debug\netcoreapp2.1\PlayESLRazor.deps.json
+D:\Repos\PlayESLRazor\PlayESLRazor\bin\Debug\netcoreapp2.1\PlayESLRazor.runtimeconfig.json
+D:\Repos\PlayESLRazor\PlayESLRazor\bin\Debug\netcoreapp2.1\PlayESLRazor.runtimeconfig.dev.json
+D:\Repos\PlayESLRazor\PlayESLRazor\bin\Debug\netcoreapp2.1\PlayESLRazor.dll
+D:\Repos\PlayESLRazor\PlayESLRazor\bin\Debug\netcoreapp2.1\PlayESLRazor.pdb
+D:\Repos\PlayESLRazor\PlayESLRazor\bin\Debug\netcoreapp2.1\PlayESLRazor.Views.dll
+D:\Repos\PlayESLRazor\PlayESLRazor\bin\Debug\netcoreapp2.1\PlayESLRazor.Views.pdb
+D:\Repos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\PlayESLRazor.csprojAssemblyReference.cache
+D:\Repos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\PlayESLRazor.csproj.CoreCompileInputs.cache
+D:\Repos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\PlayESLRazor.RazorAssemblyInfo.cache
+D:\Repos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\PlayESLRazor.RazorAssemblyInfo.cs
+D:\Repos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+D:\Repos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\PlayESLRazor.AssemblyInfoInputs.cache
+D:\Repos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\PlayESLRazor.AssemblyInfo.cs
+D:\Repos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\PlayESLRazor.TagHelpers.input.cache
+D:\Repos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\PlayESLRazor.TagHelpers.output.cache
+D:\Repos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\PlayESLRazor.RazorCoreGenerate.cache
+D:\Repos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\AccessDenied.g.cshtml.cs
+D:\Repos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ConfirmEmail.g.cshtml.cs
+D:\Repos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ExternalLogin.g.cshtml.cs
+D:\Repos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.g.cshtml.cs
+D:\Repos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.g.cshtml.cs
+D:\Repos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Lockout.g.cshtml.cs
+D:\Repos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Login.g.cshtml.cs
+D:\Repos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\LoginWith2fa.g.cshtml.cs
+D:\Repos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.g.cshtml.cs
+D:\Repos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Logout.g.cshtml.cs
+D:\Repos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.g.cshtml.cs
+D:\Repos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.g.cshtml.cs
+D:\Repos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.g.cshtml.cs
+D:\Repos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.g.cshtml.cs
+D:\Repos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.g.cshtml.cs
+D:\Repos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.g.cshtml.cs
+D:\Repos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.g.cshtml.cs
+D:\Repos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\Index.g.cshtml.cs
+D:\Repos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.g.cshtml.cs
+D:\Repos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.g.cshtml.cs
+D:\Repos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.g.cshtml.cs
+D:\Repos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.g.cshtml.cs
+D:\Repos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_Layout.g.cshtml.cs
+D:\Repos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.g.cshtml.cs
+D:\Repos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.g.cshtml.cs
+D:\Repos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.g.cshtml.cs
+D:\Repos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Register.g.cshtml.cs
+D:\Repos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ResetPassword.g.cshtml.cs
+D:\Repos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.g.cshtml.cs
+D:\Repos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\_ViewImports.g.cshtml.cs
+D:\Repos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Error.g.cshtml.cs
+D:\Repos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.g.cshtml.cs
+D:\Repos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewImports.g.cshtml.cs
+D:\Repos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+D:\Repos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Pages\About.g.cshtml.cs
+D:\Repos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Pages\CompTeams\Create.g.cshtml.cs
+D:\Repos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Pages\CompTeams\Delete.g.cshtml.cs
+D:\Repos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Pages\CompTeams\Details.g.cshtml.cs
+D:\Repos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Pages\CompTeams\Edit.g.cshtml.cs
+D:\Repos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Pages\CompTeams\Index.g.cshtml.cs
+D:\Repos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Pages\Contact.g.cshtml.cs
+D:\Repos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Pages\Error.g.cshtml.cs
+D:\Repos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Pages\Index.g.cshtml.cs
+D:\Repos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Pages\Privacy.g.cshtml.cs
+D:\Repos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\Repos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.g.cshtml.cs
+D:\Repos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_LoginPartial.g.cshtml.cs
+D:\Repos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\Repos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Pages\Tournaments\Create.g.cshtml.cs
+D:\Repos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Pages\Tournaments\Delete.g.cshtml.cs
+D:\Repos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Pages\Tournaments\Details.g.cshtml.cs
+D:\Repos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Pages\Tournaments\Edit.g.cshtml.cs
+D:\Repos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Pages\Tournaments\Index.g.cshtml.cs
+D:\Repos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.g.cshtml.cs
+D:\Repos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.g.cshtml.cs
+D:\Repos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\PlayESLRazor.RazorTargetAssemblyInfo.cache
+D:\Repos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\PlayESLRazor.RazorTargetAssemblyInfo.cs
+D:\Repos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\PlayESLRazor.Views.pdb
+D:\Repos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\PlayESLRazor.dll
+D:\Repos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\PlayESLRazor.pdb
+D:\Repos\PlayESLRazor\PlayESLRazor\obj\Debug\netcoreapp2.1\PlayESLRazor.csproj.CopyComplete

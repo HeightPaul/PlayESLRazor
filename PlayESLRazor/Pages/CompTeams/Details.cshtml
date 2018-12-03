@@ -1,0 +1,54 @@
+﻿@page "{id:int?}"
+@model PlayESLRazor.Pages.CompTeams.DetailsModel
+
+@{
+    ViewData["Title"] = "Details Of The Competing Team";
+    Layout = "~/Pages/Shared/_Layout.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Competing Teams</h4>
+    <hr style="color: black; background-color:black; height: 1px;" />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.CompTeam.Name)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.CompTeam.Name)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.CompTeam.EnrollmentDate)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.CompTeam.EnrollmentDate)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.CompTeam.Enrollments)
+        </dt>
+        <dd>
+            <table class="table">
+                <tr>
+                    <th>Tournament Title</th>
+                    <th>Tournament Tier</th>
+                </tr>
+                @foreach (var item in Model.CompTeam.Enrollments)
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Tournament.Title)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Tournament.Tier)
+                        </td>
+                    </tr>
+                }
+            </table>
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-page="./Edit" asp-route-id="@Model.CompTeam.CompTeamId">Edit</a> |
+    <a asp-page="./Index">Back to List</a>
+</div>
