@@ -1,4 +1,4 @@
-# ESL Play with .NET Core RazorPages
+# ESL Play website features with .NET Core RazorPages
 ## Basic competing teams & tournaments management modeling of https://play.eslgaming.com, developed with .NET Core 2.1 RazorPages.
 
 #### Notes:
